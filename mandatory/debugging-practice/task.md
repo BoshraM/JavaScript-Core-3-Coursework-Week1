@@ -1,6 +1,6 @@
 # My Book Library
 
-My website should be able to:
+My website should be able to: 
 
 - View a list of books that I've read
 - Add books to a list of books that I've read
